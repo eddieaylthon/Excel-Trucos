@@ -1,1 +1,6 @@
-
+1. abre excel, click en libro en blanco
+2. Click en Datos, click en obtener datos
+3. click en de un archivo, click en texto/.csv
+4.selecciona el archivo, click en importar
+5.en origen de arhcivo recmoiendo seleccionar 65001 UTF-8 , Delimitador Coma, Deteccion dejalo por defecto
+6.Click en cargar
